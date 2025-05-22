@@ -3,55 +3,55 @@
 This project focuses on implementing a regression model using supervised learning techniques to predict continuous values based on a given dataset. It covers the complete machine learning pipeline from data preprocessing to model evaluation and visualization. The notebook is designed to help beginners understand how regression algorithms work in practice.
 
 ## Objectives
-*Understand and implement a regression algorithm
+* Understand and implement a regression algorithm
 
-*Perform data preprocessing such as handling missing values and feature scaling
+* Perform data preprocessing such as handling missing values and feature scaling
 
-*Train and test a machine learning model using real-world data
+* Train and test a machine learning model using real-world data
 
-*Evaluate the model using appropriate performance metrics
+* Evaluate the model using appropriate performance metrics
 
-*Visualize relationships and model accuracy for better interpretation
+* Visualize relationships and model accuracy for better interpretation
 
 ## Steps Covered
-*Data Exploration and Cleaning
+* Data Exploration and Cleaning
 
-*Handling null values
+* Handling null values
 
-*Feature selection and transformation
+* Feature selection and transformation
 
-*Preprocessing
+* Preprocessing
 
-*Label encoding (if applicable)
+* Label encoding (if applicable)
 
-*Normalization / Standardization of data
+* Normalization / Standardization of data
 
-*Model Building
+* Model Building
 
-*Training a regression model (e.g., Linear Regression)
+* Training a regression model (e.g., Linear Regression)
 
-*Splitting dataset into training and testing sets
+* Splitting dataset into training and testing sets
 
-*Model Evaluation
+* Model Evaluation
 
-*Mean Squared Error (MSE)
+* Mean Squared Error (MSE)
 
-*R-squared (R²) score
+* R-squared (R²) score
 
-*Actual vs. Predicted plot for visual validation
+* Actual vs. Predicted plot for visual validation
 
 ## Technologies Used
-*Python – Programming language
+* Python – Programming language
 
-*Pandas – Data analysis and manipulation
+* Pandas – Data analysis and manipulation
 
-*NumPy – Numerical computing
+* NumPy – Numerical computing
 
-*Scikit-learn (sklearn) – Machine learning models and tools
+* Scikit-learn (sklearn) – Machine learning models and tools
 
-*Matplotlib & Seaborn – Data visualization
+* Matplotlib & Seaborn – Data visualization
 
-*Jupyter Notebook – Interactive coding and analysis platform
+* Jupyter Notebook – Interactive coding and analysis platform
 
 ## How to Run Locally
 1.Clone the repository:
